@@ -1,0 +1,16 @@
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.exe
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.deps.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.runtimeconfig.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.runtimeconfig.dev.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\ref\SalaDeAula.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\bin\Debug\net5.0\SalaDeAula.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.csproj.AssemblyReference.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.AssemblyInfoInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.AssemblyInfo.cs
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\ref\SalaDeAula.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aulaCodlab\SalaDeAula\obj\Debug\net5.0\SalaDeAula.genruntimeconfig.cache

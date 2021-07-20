@@ -1,0 +1,15 @@
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.exe
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.deps.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.runtimeconfig.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.runtimeconfig.dev.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\ref\teste.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\bin\Debug\net5.0\teste.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.AssemblyInfoInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.AssemblyInfo.cs
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\ref\teste.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\teste\obj\Debug\net5.0\teste.genruntimeconfig.cache

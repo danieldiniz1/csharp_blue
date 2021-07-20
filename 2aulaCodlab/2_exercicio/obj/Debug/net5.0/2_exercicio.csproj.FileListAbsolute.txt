@@ -1,0 +1,16 @@
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.exe
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.deps.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.runtimeconfig.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.runtimeconfig.dev.json
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\ref\2_exercicio.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\bin\Debug\net5.0\2_exercicio.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.csproj.AssemblyReference.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.AssemblyInfoInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.AssemblyInfo.cs
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\ref\2_exercicio.dll
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.pdb
+C:\Users\danie\Google Drive\BlueEdTech\3.Backend\2aula\2_exercicio\obj\Debug\net5.0\2_exercicio.genruntimeconfig.cache
